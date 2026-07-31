@@ -10,7 +10,7 @@ I started by loading the raw dataset into Python and inspecting the structure, m
 
 ## Tableau Dashboard
 
-[View the Tableau Public dashboard](https://public.tableau.com/app/profile/jeremy.choi/viz/customer_churn_dashboard_17854665303090/CustomerChurnDashboard?publish=yesE)
+[View the Tableau Public dashboard](https://public.tableau.com/app/profile/jeremy.choi/viz/customer_churn_dashboard_17854665303090/CustomerChurnDashboard?publish=yes)
 
 ![Customer Churn Dashboard](images/projectss.png)
 
